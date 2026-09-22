@@ -5,6 +5,7 @@
     "version": "1.37.62",
     "author": "Local",
     "js": [
-        "index.js"
+        "index.js",
+        "settings-profiles.js"
     ]
 }
